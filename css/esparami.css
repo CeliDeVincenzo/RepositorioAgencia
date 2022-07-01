@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#h1{
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    font-family: euphoria scrip,cursive;
+    font-size: 20px;
+    border-top-style: dashed;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+    background: linear-gradient(rgb(248, 204, 214),rgb(248, 158, 179));
+}
+body{
+    background-image: url(/img/atardecer.jpg);
+    
+}
+h2{  text-align: center;
+    font-family: euphoria scrip,cursive;
+    background: linear-gradient(rgb(248, 204, 214),rgb(248, 158, 179));
+    margin: 50px;
+    padding: 1px;
+    font-size: 20px;
+    border-top-style: dashed;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+
+}

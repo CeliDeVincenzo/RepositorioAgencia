@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#h1{
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    font-family: euphoria scrip,cursive;
+    font-size: 20px;
+    border-top-style: dashed;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+    background: linear-gradient(rgb(248, 204, 214),rgb(248, 158, 179));
+ 
+
+}
+#sub {
+    text-decoration: underline;
+  }
+#contenedor{
+    width: 100;
+    margin: 50px;
+    padding: 10px;
+    border-top-style: dashed;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+    background: linear-gradient(rgb(248, 158, 179),rgb(248, 204, 214));
+
+   
+}
+#caja1{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 1px;
+     font-family: euphoria scrip,cursive;
+     width: 50;
+    text-align: center;
+    float: center;
+    border-bottom-style: dashed;
+    line-height: 32px;
+    
+   
+}
+
+#caja2{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 1px;
+    font-family: euphoria scrip,cursive;
+    width: 50;
+    text-align: center;
+    float: center;
+    
+    
+}
+#body{
+    background-image: url(/img/atardecer.jpg);
+    align-items: center;
+    justify-content: center;
+}
+
+
